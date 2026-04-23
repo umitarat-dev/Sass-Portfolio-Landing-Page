@@ -15,18 +15,18 @@ A responsive multi-page website layout built with HTML, CSS, and Sass (SCSS) usi
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">
+    <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/Project-Website-HTML-CSS-SASS.git">
+    <a href="https://github.com/umitarat-dev/Sass-Portfolio-Landing-Page.git">
       📂 Repository
     </a>
   </h3>
 </div>
 
 <p align="center">
-  <a href="https://umit8098.github.io/Project-Website-HTML-CSS-SASS/">
+  <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">
     <img src="./Sass.gif" alt="Sass Page" width="800"/>
   </a>>
 </p>
@@ -116,7 +116,7 @@ Sass-website-page-design (folder)
 
 ```bash
 # Clone this repository
-git clone https://github.com/Umit8098/Project-Website-HTML-CSS-SASS.git
+git clone https://github.com/umitarat-dev/Sass-Portfolio-Landing-Page.git
 
 # Open index.html in your browser
 ```
