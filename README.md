@@ -27,7 +27,7 @@ A responsive multi-page website layout built with HTML, CSS, and Sass (SCSS) usi
 
 <p align="center">
   <a href="https://umitarat-dev.github.io/Sass-Portfolio-Landing-Page/">
-    <img src="./Sass.gif" alt="Sass Page" width="800"/>
+    <img src="./Sass.gif" alt="Sass Page" width="700"/>
   </a>>
 </p>
 
